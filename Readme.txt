@@ -40,3 +40,4 @@ I checked and pass the parametre in URL , Damn!!! It worked.
  In my Models folder , Added the Class in it with the name Movie.cs
  When i tried to install the package it pop up with the error says that its installed version 7 is not compatible . So i went to the tools and 
  in in manage nuget packages i installed the latest version of 3.1 for it. Now its good to go
+ x
