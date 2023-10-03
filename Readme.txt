@@ -59,4 +59,8 @@ I checked and pass the parametre in URL , Damn!!! It worked.
    "Update-Database"
    And guess what my Migrations folder created out. That was easy now we are safe...........!!!!
 
+
+   My MvcMovie link was not working and it was showing the database. So I figured out that my scafollding was not dpone properly
+   So I again repeated the procedure of adding scaffolding item and now it works.......!!!!
+   Thank God
   
