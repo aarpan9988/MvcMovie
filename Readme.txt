@@ -39,5 +39,8 @@ I checked and pass the parametre in URL , Damn!!! It worked.
  Here I an working on the Models .
  In my Models folder , Added the Class in it with the name Movie.cs
  When i tried to install the package it pop up with the error says that its installed version 7 is not compatible . So i went to the tools and 
- in in manage nuget packages i installed the latest version of 3.1 for it. Now its good to go
- x
+ in in manage nuget packages i installed the latest version of 3.1 for it. Now its good to go.
+ Moving forward with the next part I added the Data folder in the MvcMovie and add a controller named MvcMovieContext.cs file in it. 
+ I changed the code of the file according to the provided code in the tutorial and we are good to go for next now 
+
+  
