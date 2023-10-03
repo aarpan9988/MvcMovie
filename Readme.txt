@@ -41,6 +41,11 @@ I checked and pass the parametre in URL , Damn!!! It worked.
  When i tried to install the package it pop up with the error says that its installed version 7 is not compatible . So i went to the tools and 
  in in manage nuget packages i installed the latest version of 3.1 for it. Now its good to go.
  Moving forward with the next part I added the Data folder in the MvcMovie and add a controller named MvcMovieContext.cs file in it. 
- I changed the code of the file according to the provided code in the tutorial and we are good to go for next now 
+ I changed the code of the file according to the provided code in the tutorial and we are good to go for next now .
+
+ Since I have created the database I need to register it. So as per instructions , I updated my startup.cs file with the given code:
+ "using MvcMovie.Data;
+   using Microsoft.EntityFrameworkCore;". Later on I also updated the startup configureservices.
+   Now lets see If it works or not.
 
   
