@@ -50,4 +50,13 @@ I checked and pass the parametre in URL , Damn!!! It worked.
 
    Everything it done related to the database, We created it, registered it . Now we have to examine our database. So I changed my appsettings.json file and added the code given in the tutorial.
 
+   Next step was to add a scafollding item  to create the movie pages(CRUD) for the movie model.
+   The step was to , to add a scaffolding item in the Controller folder.
+   When I created it it pops up the error says the Entity framework doesn't exist.
+   But that not a big deal because it needed a initial create which i have;nt done.
+   So I run the command
+   "Add-Migration InitialCreate"
+   "Update-Database"
+   And guess what my Migrations folder created out. That was easy now we are safe...........!!!!
+
   
