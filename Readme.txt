@@ -48,4 +48,6 @@ I checked and pass the parametre in URL , Damn!!! It worked.
    using Microsoft.EntityFrameworkCore;". Later on I also updated the startup configureservices.
    Now lets see If it works or not.
 
+   Everything it done related to the database, We created it, registered it . Now we have to examine our database. So I changed my appsettings.json file and added the code given in the tutorial.
+
   
