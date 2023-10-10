@@ -64,3 +64,11 @@ I checked and pass the parametre in URL , Damn!!! It worked.
    So I again repeated the procedure of adding scaffolding item and now it works.......!!!!
    Thank God
   
+  PART 5:
+
+  Adding the data of the movies.
+  It was not that hard the instructions was to create a class under the Model folder and name it SeedData.cs and I did the same. Now what replaced the code with the given entries of the movies.
+  I updated the program.cs file to run the seedData. 
+  After that I run the application and guess what it din'nt worked.
+  It is a trouble, then I remembered that I added the data in the file but what about the update. I should update it so thatdatabase came to know there is a change of data in it. 
+  Then i Updated it and it worked I can clearly see my Movies information that has been added.
