@@ -72,3 +72,10 @@ I checked and pass the parametre in URL , Damn!!! It worked.
   After that I run the application and guess what it din'nt worked.
   It is a trouble, then I remembered that I added the data in the file but what about the update. I should update it so thatdatabase came to know there is a change of data in it. 
   Then i Updated it and it worked I can clearly see my Movies information that has been added.
+
+
+
+  Part6:
+
+  Adding a search string method, which will search the movie for me.
+  I got an error which is "searchString doesn not exist in the current context". I can'nt figure it out yet , but we will be working on it.
